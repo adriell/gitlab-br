@@ -1,0 +1,5 @@
+baseurl = "http://gitlab-br.org/"
+languageCode = "en-us"
+title = "GitLab Brasil"
+theme = "hyde"
+paginate = 2
