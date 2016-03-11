@@ -17,8 +17,10 @@ title = "Quem usa o GitLab?"
 * ANATEL
 * DATAPREV
 * SERPRO
+* UFBA
 
 ## Empresas Privadas
 
 * INSTRUCT
 * EQUINIX
+* Thoughtworks
