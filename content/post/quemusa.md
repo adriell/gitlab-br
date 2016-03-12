@@ -10,12 +10,13 @@ title = "Quem usa o GitLab?"
 
 ## Empresas Públicas
 
+* ANATEL
+* DATAPREV
+* DETRAN-DF
+* EBERSH
 * Ministério da Cultura
 * Ministério da Justiça
 * Ministério do Planejamento
-* EBERSH
-* ANATEL
-* DATAPREV
 * SERPRO
 * UFBA
 
