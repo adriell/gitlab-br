@@ -25,3 +25,4 @@ title = "Quem usa o GitLab?"
 * INSTRUCT
 * EQUINIX
 * Thoughtworks
+* Infoway
